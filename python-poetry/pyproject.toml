@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "{{ $base }}"
 version = "0.1.0"
-description = "{{ $Description }}"
+description = ""
 authors = []
 
 [tool.poetry.dependencies]

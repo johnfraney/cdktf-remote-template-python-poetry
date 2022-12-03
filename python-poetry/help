@@ -21,4 +21,18 @@
 
   Learn more about using modules and providers https://cdk.tf/modules-and-providers
 
+Use Providers:
+
+  You can find all prebuilt providers on PyPI: https://pypi.org/user/cdktf-team/
+  You can also install these providers directly through poetry:
+
+  poetry add cdktf-cdktf-provider-aws
+  poetry add cdktf-cdktf-provider-google
+  poetry add cdktf-cdktf-provider-azurerm
+  poetry add cdktf-cdktf-provider-docker
+  poetry add cdktf-cdktf-provider-github
+  poetry add cdktf-cdktf-provider-null
+
+  You can also build any module or provider locally. Learn more: https://cdk.tf/modules-and-providers
+
 ========================================================================================================

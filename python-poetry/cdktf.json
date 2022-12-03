@@ -1,11 +1,12 @@
 {
   "language": "python",
   "app": "poetry run python main.py",
+  "projectId": "{{projectId}}",
+  "sendCrashReports": "{{sendCrashReports}}",
   "terraformProviders": [],
   "terraformModules": [],
   "codeMakerOutput": "imports",
   "context": {
-    "excludeStackIdFromLogicalIds": "true",
-"allowSepCharsInLogicalIds": "true"
+{{futureFlags}}
   }
 }

@@ -16,5 +16,5 @@ cdktf init --template="https://github.com/johnfraney/cdktf-remote-template-pytho
 Or a tag:
 
 ```bash
-cdktf init --template="https://github.com/johnfraney/cdktf-remote-template-python-poetry/archive/refs/tags/v1.0.0.zip --local
+cdktf init --template="https://github.com/johnfraney/cdktf-remote-template-python-poetry/archive/refs/tags/v1.0.0.zip" --local
 ```
